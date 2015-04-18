@@ -1,0 +1,10 @@
+c:\users\john\desktop\Synthesizer\bin\Debug\Synthesizer.exe.config
+c:\users\john\desktop\Synthesizer\bin\Debug\Synthesizer.exe
+c:\users\john\desktop\Synthesizer\bin\Debug\Synthesizer.pdb
+c:\users\john\desktop\Synthesizer\obj\Debug\Synthesizer.exe
+c:\users\john\desktop\Synthesizer\obj\Debug\Synthesizer.pdb
+c:\users\john\desktop\Synthesizer\obj\Debug\Synthesizer.csprojResolveAssemblyReference.cache
+C:\Users\John\desktop\Synthesizer\bin\Debug\Synthesizer.exe.manifest
+C:\Users\John\desktop\Synthesizer\bin\Debug\Synthesizer.application
+C:\Users\John\desktop\Synthesizer\obj\Debug\Synthesizer.exe.manifest
+C:\Users\John\desktop\Synthesizer\obj\Debug\Synthesizer.application
